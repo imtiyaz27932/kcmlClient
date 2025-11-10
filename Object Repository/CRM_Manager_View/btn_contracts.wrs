@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WindowsElementEntity>
+   <description></description>
+   <name>btn_contracts</name>
+   <tag></tag>
+   <locator>Contracts</locator>
+   <locatorStrategy>NAME</locatorStrategy>
+</WindowsElementEntity>

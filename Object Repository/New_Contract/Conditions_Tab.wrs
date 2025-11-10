@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WindowsElementEntity>
+   <description></description>
+   <name>Conditions_Tab</name>
+   <tag></tag>
+   <locator>Conditions</locator>
+   <locatorStrategy>NAME</locatorStrategy>
+</WindowsElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WindowsElementEntity>
+   <description></description>
+   <name>txt_contract_reference</name>
+   <tag></tag>
+   <locator>//Pane[@Name=&quot;Contract reference&quot;]//child::Edit[1]</locator>
+   <locatorStrategy>XPATH</locatorStrategy>
+</WindowsElementEntity>

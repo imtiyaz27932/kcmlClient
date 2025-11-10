@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WindowsElementEntity>
+   <description></description>
+   <name>txt_supplier_contract</name>
+   <tag></tag>
+   <locator>//Pane[@Name=&quot;Supplier account&quot;]/Edit</locator>
+   <locatorStrategy>XPATH</locatorStrategy>
+</WindowsElementEntity>

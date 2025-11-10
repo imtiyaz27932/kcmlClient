@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WindowsElementEntity>
+   <description></description>
+   <name>End_Date field</name>
+   <tag></tag>
+   <locator>End date/time</locator>
+   <locatorStrategy>NAME</locatorStrategy>
+</WindowsElementEntity>
